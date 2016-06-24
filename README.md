@@ -1,5 +1,5 @@
 # server_client
-Server client connection via socket. This is done through the following files
+Server client connection via TCP. This is done through the following files
 
 - server.py : making the message and sending it. This server also measures various time stamps.
 - client.py : receiving the message and sending a simple message back
